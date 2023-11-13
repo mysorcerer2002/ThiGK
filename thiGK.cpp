@@ -5,4 +5,5 @@ int main(){
     cin>>a;
     cout << int(a);
     return 0;
+    
 }
