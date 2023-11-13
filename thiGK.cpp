@@ -16,7 +16,7 @@ int main(){
     int a;
     cin>>a;
     cout << int(a);
-    ktSoHT(a);
+    Check_SHT(a);
     return 0;
 
 }
