@@ -15,6 +15,7 @@ int main(){
     int a;
     cin>>a;
     cout << int(a);
+    ktsoCP(a);
     return 0;
     
 }
